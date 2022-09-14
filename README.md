@@ -48,4 +48,4 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 Endpoint 
-http://imagefilter-env.eba-42z22mch.us-east-1.elasticbeanstalk.com/
+http://imagefilter-env.eba-42z22mch.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/015A/production/_126464300_gettyimages-1242248086.jpg
